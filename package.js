@@ -1,5 +1,5 @@
 Package.describe({
-    summary: "TrainingsPlanet Asset Module, provides Image and Video Collections"
+    summary: "Identicon Library"
 });
 Package.on_use(function (api, where) {
 
