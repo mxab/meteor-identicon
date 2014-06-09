@@ -1,0 +1,12 @@
+{
+    "name": "mxab-identicon",
+    "description": "Identicon base on Identicon.js",
+    "homepage": "https://github.com/mxab/meteor-identicon",
+    "author": "Max Bruchmann <maxbruchmann@gmail.com>",
+    "version": "0.1.0",
+    "git": "https://github.com/mxab/meteor-identicon.git",
+    "packages": {
+
+    }
+}
+      
